@@ -1,4 +1,5 @@
 Kevin Liu
-July , 2023
+July 24, 2023
 
 # Daily Log
+- 
